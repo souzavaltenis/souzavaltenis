@@ -9,7 +9,7 @@
 
 ## 💻 Linguagens de programação
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagomdias22&layout=compact&theme=gotham&show_icons=true&locale=pt-br)](https://github.com/souzavaltenis/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souzavaltenis&layout=compact&theme=gotham&show_icons=true&locale=pt-br)](https://github.com/souzavaltenis/github-readme-stats)
 
 ## 💌 Contatos ⤵️
 
