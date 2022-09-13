@@ -3,7 +3,7 @@
 ## Olá 👋🏻
 
 <p align="left"> 
-  Meu nome é Valtenis, tenho 22 anos e possuo Bacharel em Sistemas de Informação pelo Instituto Federal Goiano. 
+  Meu nome é Valtenis, tenho 22 anos e possuo Bacharelado em Sistemas de Informação pelo Instituto Federal Goiano. 
   Atualmente atuo como desenvolvedor Full Stack Jr na Stefanini Brasil. As tecnologias que utilizo são Java e Angular.<br>
 </p>
 
