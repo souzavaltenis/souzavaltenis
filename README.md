@@ -10,7 +10,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souzavaltenis&theme=gotham&show_icons=true&locale=pt-br)](https://github.com/souzavaltenis/github-readme-stats)
 
-## 💌 Contatos ⤵️
+## Contatos ⤵️
 
 <p align="left">
   <a href="https://www.linkedin.com/in/valtenis-souza" alt="Linkedin">
